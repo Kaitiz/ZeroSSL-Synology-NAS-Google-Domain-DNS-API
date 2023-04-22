@@ -24,7 +24,7 @@ sudo mv /usr/local/share/acme.sh-master/ /usr/local/share/acme.sh
 sudo chown -R certadmin /usr/local/share/acme.sh/
 ```
 
-- Set environment variables for Google Domain and ACME DNS API:
+- Set environment variables for [Google Domain](https://github.com/acmesh-official/acme.sh/wiki/dnsapi2#157-use-google-domains-dns-api) and ACME DNS API:
 ```
 sudo -i
 cd /usr/local/share/acme.sh
