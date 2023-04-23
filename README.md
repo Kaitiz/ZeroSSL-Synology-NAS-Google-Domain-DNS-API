@@ -1,3 +1,5 @@
+<img src="/img/SSL.jpg">
+
 ### I. Create a new user to automatically renew the certificate
 - Control Panel -> User -> Create -> Enter a name and password (e.g: Name = "certadmin")
 - Add user to "administrators" group.
